@@ -1,4 +1,7 @@
-This is a simple calculator program written in Java. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. 
+This is a simple calculator program written in Java. 
+It performs basic arithmetic operations like: 
+addition, subtraction, multiplication, and division. 
+
 
 Features:
 Addition, Substraction, Multiplication, and Division.
